@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sharvanik/Documents/WBL/Fraud_detection/mlruns/163599303395075730/673293edf4554ebe9d39b9d4e7ae1a71/artifacts
+end_time: 1757615103057
+entry_point_name: ''
+experiment_id: '163599303395075730'
+lifecycle_stage: active
+run_id: 673293edf4554ebe9d39b9d4e7ae1a71
+run_name: gaudy-skunk-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757615102135
+status: 4
+tags: []
+user_id: sharvanik

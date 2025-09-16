@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sharvanik/Documents/WBL/Fraud_detection/mlruns/163599303395075730/88342e489e484c968465c26013e7e105/artifacts
+end_time: 1757615731074
+entry_point_name: ''
+experiment_id: '163599303395075730'
+lifecycle_stage: active
+run_id: 88342e489e484c968465c26013e7e105
+run_name: inquisitive-gnat-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757615730167
+status: 4
+tags: []
+user_id: sharvanik

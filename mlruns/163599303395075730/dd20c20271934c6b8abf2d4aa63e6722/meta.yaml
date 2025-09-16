@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sharvanik/Documents/WBL/Fraud_detection/mlruns/163599303395075730/dd20c20271934c6b8abf2d4aa63e6722/artifacts
+end_time: 1757615309151
+entry_point_name: ''
+experiment_id: '163599303395075730'
+lifecycle_stage: active
+run_id: dd20c20271934c6b8abf2d4aa63e6722
+run_name: learned-rook-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757615306908
+status: 3
+tags: []
+user_id: sharvanik

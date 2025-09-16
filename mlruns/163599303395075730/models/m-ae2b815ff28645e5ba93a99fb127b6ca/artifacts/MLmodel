@@ -1,0 +1,22 @@
+artifact_path: file:///Users/sharvanik/Documents/WBL/Fraud_detection/mlruns/163599303395075730/models/m-ae2b815ff28645e5ba93a99fb127b6ca/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.3.2
+model_id: m-ae2b815ff28645e5ba93a99fb127b6ca
+model_size_bytes: 965
+model_uuid: m-ae2b815ff28645e5ba93a99fb127b6ca
+prompts: null
+run_id: bb6436a431044634aad2f7d89929474b
+utc_time_created: '2025-09-16 17:02:58.583567'

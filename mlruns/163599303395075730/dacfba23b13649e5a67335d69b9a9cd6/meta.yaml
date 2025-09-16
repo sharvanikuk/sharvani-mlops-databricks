@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sharvanik/Documents/WBL/Fraud_detection/mlruns/163599303395075730/dacfba23b13649e5a67335d69b9a9cd6/artifacts
+end_time: 1757615286429
+entry_point_name: ''
+experiment_id: '163599303395075730'
+lifecycle_stage: active
+run_id: dacfba23b13649e5a67335d69b9a9cd6
+run_name: incongruous-kite-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757615285549
+status: 4
+tags: []
+user_id: sharvanik

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sharvanik/Documents/WBL/Fraud_detection/mlruns/163599303395075730/2a080e91ccd641f093c3f8b9d1e7c6c7/artifacts
+end_time: 1758042002044
+entry_point_name: ''
+experiment_id: '163599303395075730'
+lifecycle_stage: active
+run_id: 2a080e91ccd641f093c3f8b9d1e7c6c7
+run_name: nimble-duck-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758042000017
+status: 3
+tags: []
+user_id: sharvanik

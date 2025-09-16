@@ -1,0 +1,10 @@
+artifact_location: file:///Users/sharvanik/Documents/WBL/Fraud_detection/mlruns/163599303395075730/models/m-6575008a6626434eabb37155edc58f2d/artifacts
+creation_timestamp: 1758041802944
+experiment_id: '163599303395075730'
+last_updated_timestamp: 1758041804504
+model_id: m-6575008a6626434eabb37155edc58f2d
+model_type: null
+name: fraud_model
+source_run_id: 5992ec37c9c04ee1bd0574a00c8bf52b
+status: 2
+status_message: null

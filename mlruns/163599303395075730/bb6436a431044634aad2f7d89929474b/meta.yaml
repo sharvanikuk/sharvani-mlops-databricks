@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sharvanik/Documents/WBL/Fraud_detection/mlruns/163599303395075730/bb6436a431044634aad2f7d89929474b/artifacts
+end_time: 1758042179665
+entry_point_name: ''
+experiment_id: '163599303395075730'
+lifecycle_stage: active
+run_id: bb6436a431044634aad2f7d89929474b
+run_name: casual-loon-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758042177669
+status: 3
+tags: []
+user_id: sharvanik

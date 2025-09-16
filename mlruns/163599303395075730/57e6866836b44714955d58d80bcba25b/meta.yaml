@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sharvanik/Documents/WBL/Fraud_detection/mlruns/163599303395075730/57e6866836b44714955d58d80bcba25b/artifacts
+end_time: 1757615749488
+entry_point_name: ''
+experiment_id: '163599303395075730'
+lifecycle_stage: active
+run_id: 57e6866836b44714955d58d80bcba25b
+run_name: skittish-loon-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757615747553
+status: 4
+tags: []
+user_id: sharvanik

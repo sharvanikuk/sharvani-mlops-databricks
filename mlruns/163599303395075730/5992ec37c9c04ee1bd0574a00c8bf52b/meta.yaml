@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sharvanik/Documents/WBL/Fraud_detection/mlruns/163599303395075730/5992ec37c9c04ee1bd0574a00c8bf52b/artifacts
+end_time: 1758041804505
+entry_point_name: ''
+experiment_id: '163599303395075730'
+lifecycle_stage: active
+run_id: 5992ec37c9c04ee1bd0574a00c8bf52b
+run_name: puzzled-swan-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758041801999
+status: 4
+tags: []
+user_id: sharvanik
